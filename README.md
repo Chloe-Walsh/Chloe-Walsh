@@ -1,7 +1,7 @@
 <h2 align="center">Hello There </h2>
 
 
-<p align="center">I am studying a Bachelor of Computer Science at the University of Adelaide</p>
+<p align="center">I have a bachelor of Computer Science and I am currently working as a Front End Developer</p>
 
 <br>
 <p align="center">:)</p>
